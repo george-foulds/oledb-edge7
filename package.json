@@ -1,5 +1,5 @@
 {
-  "name": "oledb",
+  "name": "oledb-edge-js",
   "version": "1.5.1",
   "description": "Uses Edge.js to connect to an ADO.NET Databases.",
   "main": "index.js",
